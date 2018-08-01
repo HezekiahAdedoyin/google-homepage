@@ -1,0 +1,77 @@
+
+
+#header {
+	height: 128px;
+	width: 100%;
+	background-color: #fafafa;
+	position: fixed;
+	left: 0px;
+	top:0px;
+	border-bottom: 1px solid #eee;
+}
+
+
+.nav {
+	height: 200px;
+	width: 200px;
+	background-color: red;
+}
+
+
+#logoImage {
+
+	position: relative;
+	top: 17px;
+	left: 10px;
+	padding-top: 3px;
+	padding-left: 3px;
+}
+
+#micIcon {
+	height: 20px;
+	width: 14px;
+	position: relative;
+	top: 4px;
+	left: 583px;
+	padding-top: 3px;
+	padding-left: 3px;
+	z-index: 2;
+}
+
+#searchIcon {
+	height: 22px;
+	width: 22px;
+	position: relative;
+	top: 4px;
+	left: 597px;
+	padding-top: 3px;
+	padding-left: 3px;
+	z-index: 2;
+}
+
+
+#white-card {
+
+	height: 44px;
+	width: 632px;
+	background-color: white;
+	position: relative; 
+	left: 153px;
+	bottom: 31px;
+	box-shadow: .5px 1px 1px .5px #d2d2d2;
+
+}
+
+#nav-links ul li {
+
+	display: inline;
+	font-size: 13px;
+	color: #777;
+	margin-right: 25px;
+	font-family: 'Roboto', arial, sans-serif;
+	text-align: center;
+	position: relative;
+	bottom: 15px;
+	left: 123px;
+}
+
